@@ -1,1 +1,2 @@
 # A-star-pathfinding-visualisation
+This A Star Path Finding project will show you how to use Python to implement the a- star search algorithm. To visualise the star pathfinding algorithm as it runs, we will create a path finder tool. This a- star pathfinding algorithm is an informed search algorithm, which means it is far more efficient than traditional algorithms such as breadth-first search or depth-first search.
